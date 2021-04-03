@@ -2,7 +2,7 @@
 ## ALL TOOLS HACKER: ALL TOOLS HACKER IT'S THE TOOL WHO CAN HELP YOU INSTALLING ANY HACKING TOOLS
 ## AUTHOR          : {PRINCE GUTIERREZ}
 ## VERSION         : 3.0
-## GITHUB          : https://github.com/PRINCEGUT-12
+## GITHUB          : https://github.com/PDGHACK-10
 ## NOTES           : THIS TOOL USE TO INSTALL ALL TERMUX HACKING TOOLS WITHOUT ERROR
 ## NOTES 2         : THIS TOOL IS MINE THIS IS FROM MY OLD ACCOUNT NAME PG-59 I MADE A NEW ACCOUNT AND THIS TOOL I WILL USE THIS
 blue='\033[31;1m'
@@ -113,6 +113,7 @@ echo -e $blue "[83] > WPSCAN"
 echo -e $blue "[84] > WPSEKU"
 echo -e $blue "[85] > XERXES"
 echo -e $blue "[86] > MALICIOUS"
+echo -e $blue "[87] > TXTOOL"
 echo -e $red "[00] > EXIT"
 read -p "HACKING-TOOLS: " hack
 
@@ -377,6 +378,9 @@ cd $HOME && git clone https://github.com/Dev0uss/xerxes
 
 elif [ $PG-59 == "86" ]; then
 cd $HOME && git clone https://github.com/TheReaper167/Malicious 
+
+elif [ $PG-59 == "86" ]; then
+https://github.com/kuburan/txtool
 
 elif [ $hack == "00" ]; then
 echo -e $red"[!] Exit"
