@@ -384,6 +384,11 @@ https://github.com/kuburan/txtool
 
 elif [ $hack == "00" ]; then
 echo -e $red"[!] Exit"
+exit 1
+else
+echo -e $red INVALID OPTION
+sleep 2
+bash hacker-tools.sh
   fi   
 }
 
