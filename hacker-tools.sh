@@ -23,9 +23,8 @@ command -v git > /dev/null 2>&1 || { echo >&2 "I require git but it's not instal
 tools(){
 
 echo -e $red █░█ ▄▀█ █▀▀ █▄▀ █▀▀ █▀█ ▄▄ ▀█▀ █▀█ █▀█ █░░ █▀
-echo -e $red █▀█ █▀█ █▄▄ █░█ ██▄ █▀▄ ░░ ░█░ █▄█ █▄█ █▄▄ ▄█
-echo -e $green CODED BY:{PRINCEGUT-12} {PRINCE GUTIERREZ} 
-echo -e $blue  v3.0
+echo -e $red █▀█ █▀█ █▄▄ █░█ ██▄ █▀▄ ░░ ░█░ █▄█ █▄█ █▄▄ ▄█ v3.0
+echo -e $green CODED BY:{PDGHACK-10} {PRINCE GUTIERREZ} 
 echo -e $blue "[U] > Update"
 echo -e $blue "[1] > SQLMAP"
 echo -e $blue "[2] > STRIKER"
