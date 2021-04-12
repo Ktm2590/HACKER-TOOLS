@@ -385,7 +385,7 @@ elif [ $hack == "00" ]; then
 echo -e $red"[!] Exit"
 exit 1
 else
-echo -e $red INVALID OPTION
+echo -e $blue INVALID OPTIONS PLEASE TRY AGAIN.........^_^...
 sleep 2
 bash hacker-tools.sh
   fi   
